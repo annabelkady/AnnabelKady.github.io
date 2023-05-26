@@ -55,7 +55,7 @@ Graduate School of Applied and Professional Psychology, Rutgers University
 
 # Skills
 
-* **Clinical**: Clinical interviewing (SCIDs and MINIs), neuropsychological assesment (WAIS, WISC, DKEFs, RCFT), informed consent, IRB approval
+* **Clinical**: Clinical interviewing (SCIDs and MINIs), neuropsychological assessment (WAIS, WISC, DKEFs, RCFT), informed consent, IRB approval
 * **Computer**: R, SPSS, Microsoft Excel, RedCap, Qualtrics, Canva
 
 # Publications
