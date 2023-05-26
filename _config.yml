@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Roy Sadek Habib"
+title                    : "Annabel Kady"
 title_separator          : "-"
-name                     : &name "Daniel Roy Sadek Habib"
+name                     : &name "Annabel Kady"
 description              : &description "personal description"
-url                      : https://danielrshabib.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://annabelkady.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "danielrshabib/danielrshabib.github.io"
+repository               : "annabelkady/AnnabelKady.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Habib"
+  name             : "Annabel Kady"
   avatar           : "Daniel.Habib.Headshot.jpg"
   bio              : "Medical Student<br>daniel.r.habib (at) vanderbilt (dot) edu"
   location         : 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"danielrshabib"
+  github           : #"annabelkady"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "danielrshabib"
+  linkedin         : "AnnabelKady"
   orcid            : "https://orcid.org/0000-0003-0504-9076"
   pinterest        :
   soundcloud       :
