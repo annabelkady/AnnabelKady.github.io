@@ -1,13 +1,11 @@
 ---
-title: "Restriction: The COVID-19 policy type of choice for fragile Middle Eastern states"
+title: Therapy dose mediates the relationship between buprenorphine/naloxone and opioid treatment outcomes in youth receiving medication for opioid use disorder treatment"
 collection: publications
 permalink: /publication/2020-10-15-habib2020restriction
-excerpt: 'This paper begins to examine the different COVID-19 policy responses implemented in Middle Eastern countries.'
-date: 2020-10-15
+excerpt: 'This paper used data from the NIDA-CTN-0010 trial to evaluate the mediating effects of psychosocial treatment-related variables (therapy dose and therapeutic alliance) on end-of-treatment opioid abstinence in a sample of youth with Opioid Use Disorder. We found that participants in the Bup-Nal group attended more therapy sessions (16 vs 6 sessions), had increased therapeutic alliance at week-4, and had less opioid use by week-12 compared to those in the Detox group. In both treatment arms, youth who attended more therapy sessions were less likely to have a week-12 opioid positive urine. In a multiple mediator model, therapy dose mediated the association between treatment arm and opioid abstinence.
+Conclusions:
 venue: 'Cambio'
 paperurl: ''
-citation: '<b>Habib D</b>. Restriction: The COVID-19 policy type of choice for fragile Middle Eastern states. <i>Cambio</i>. 2020:1-12. doi:10.13128/cambio-9729'
+citation: '<b>Kady, A.</b>,* Hammond, C. J.,* Park, G., Vidal, C., Wenzel, K., & Fishman, M. (2022). Therapy Dose Mediates the Relationship Between Buprenorphine/Naloxone and Opioid Treatment Outcomes in Youth Receiving Medication for Opioid Use Disorder Treatment. Journal of addiction medicine, 16(2), e97–e104. https://doi.org/10.1097/ADM.0000000000000861'
 ---
-This paper begins to examine the different COVID-19 policy responses implemented in Middle Eastern countries.
-
-[Download paper here](http://danielrshabib.github.io/files/habib2020restriction.pdf)
+This paper used data from the NIDA-CTN-0010 trial to evaluate the mediating effects of psychosocial treatment-related variables (therapy dose and therapeutic alliance) on end-of-treatment opioid abstinence in a sample of youth with Opioid Use Disorder. We found that participants in the Bup-Nal group attended more therapy sessions (16 vs 6 sessions), had increased therapeutic alliance at week-4, and had less opioid use by week-12 compared to those in the Detox group. In both treatment arms, youth who attended more therapy sessions were less likely to have a week-12 opioid positive urine. In a multiple mediator model, therapy dose mediated the association between treatment arm and opioid abstinence.
