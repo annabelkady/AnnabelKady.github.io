@@ -1,5 +1,5 @@
 ---
-title: Therapy dose mediates the relationship between buprenorphine/naloxone and opioid treatment outcomes in youth receiving medication for opioid use disorder treatment"
+title: "Therapy dose mediates the relationship between buprenorphine/naloxone and opioid treatment outcomes in youth receiving medication for opioid use disorder treatment"
 collection: publications
 permalink: /publication/2020-10-15-habib2020restriction
 excerpt: 'This paper used data from the NIDA-CTN-0010 trial to evaluate the mediating effects of psychosocial treatment-related variables (therapy dose and therapeutic alliance) on end-of-treatment opioid abstinence in a sample of youth with Opioid Use Disorder. We found that participants in the Bup-Nal group attended more therapy sessions (16 vs 6 sessions), had increased therapeutic alliance at week-4, and had less opioid use by week-12 compared to those in the Detox group. In both treatment arms, youth who attended more therapy sessions were less likely to have a week-12 opioid positive urine. In a multiple mediator model, therapy dose mediated the association between treatment arm and opioid abstinence.
