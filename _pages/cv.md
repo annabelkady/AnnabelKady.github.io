@@ -15,7 +15,7 @@ redirect_from:
 # Research
 * Sep 2022-Present: <b>Graduate Student</b>
 *   * UCLA Addictions Labratory
-*   * Mentor: Lara Ray, PhD
+   * Mentor: Lara Ray, PhD
 * Jan 2020-Jun 2022: <b>Trauma Team Leader</b>
   * Addiction and Lifespan Development Lab at Rutgers Center of Alcohol and Substance Use Studies 
 Graduate School of Applied and Professional Psychology, Rutgers University
