@@ -1,13 +1,13 @@
 ---
-title: "Nonsuicidal self-injury and substance use disorders: A shared language of addiction"
+title: "Sex-based differences in psychiatric symptoms and opioid abstinence during buprenorphine/naloxone treatment in adolescents with opioid use disorders"
 collection: publications
 permalink: /publication/2022-07-15-giorgi2022nonsuicidal
-excerpt: 'This paper explores similar language between people posting on Reddit about nonsuicidal self-injury and substance use disorders, namely recovery and support. We found that while people who self-injure conceptualize their condition as an addiction, they experience different comorbidites than people with substance use disorders.'
-date: 2022-07-15
-venue: 'Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology'
+excerpt: 'This paper examined sex-based differences in psychiatric symptoms and relationships among sex, psychiatric symptoms, and opioid use outcomes in youth with OUD receiving buprenorphine/naloxone (Bup/Nal) and psychosocial treatment. We found that clinically significant sex-based differences in psychiatric symptoms are present at baseline among youth with opioid use disorder receiving Bup/Nal-assisted treatment and mostly resolve during treatment.'
+date: 2022
+venue: 'Journal of Substance Abuse Treatment'
 paperurl: ''
-citation: 'Giorgi S, Himelein-wachowiak M, <b>Habib D</b>, Ungar L, Curtis B. Nonsuicidal self-injury and substance use disorders: A shared language of addiction. In: <i>Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology</i>. Association for Computational Linguistics; 2022:177-183. doi:10.18653/v1/2022.clpsych-1.15'
+citation: 'Hammond, C. J., Park, G.,<b> Kady, A.</b>, Rathod, K., Rahman, N., Vidal, C., Wenzel, K., & Fishman, M. (2022). Sex-based differences in psychiatric symptoms and opioid abstinence during buprenorphine/naloxone treatment in adolescents with opioid use disorders. Journal of substance abuse treatment, 133, 108495.'
 ---
-This paper explores similar language between people posting on Reddit about nonsuicidal self-injury and substance use disorders, namely recovery and support. We found that while people who self-injure conceptualize their condition as an addiction, they experience different comorbidites than people with substance use disorders.
+This paper examined sex-based differences in psychiatric symptoms and relationships among sex, psychiatric symptoms, and opioid use outcomes in youth with OUD receiving buprenorphine/naloxone (Bup/Nal) and psychosocial treatment. We found that clinically significant sex-based differences in psychiatric symptoms are present at baseline among youth with opioid use disorder receiving Bup/Nal-assisted treatment and mostly resolve during treatment.
 
 [Download paper here](http://danielrshabib.github.io/files/giorgi2022nonsuicidal.pdf)
