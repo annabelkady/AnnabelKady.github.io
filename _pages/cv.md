@@ -105,23 +105,3 @@ redirect_from:
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
-# Popular Works
-
-* **Habib D**, Elmore N. [Researching the COVID-19 Pandemic: New vistas and data limitations](https://blog.brill.com/view/post/guest-post/podcast/researching-the-covid-19-pandemic.xml). *Middle East Law and Governance Blog*. Published May 2, 2022.
-* **Habib D**. [COVID-19 in the Middle East](https://www.policyforum.net/covid-19-in-the-middle-east/). *Asia & The Pacific Policy Society*. Published August 14, 2020.
-* **Habib D**. [Stars, stripes and nicotine addiction](https://roanoke.com/opinion/commentary/habib-stars-stripes-and-nicotine-addiction/article_26b9a122-2d2f-5d1a-9b23-f0a258e4567c.html). *The Roanoke Times*. Published September 25, 2019.
-
-# Undergraduate Journal Articles
-
-* **Habib D**. Computational analysis on the relationship between state political party dominance and lack of health insurance. *Hopkins Undergraduate Research Journal*. 2020:44-46.
-* **Habib D**. An act divided: America’s uninsured. *The Cornell Healthcare Review*. 2019:23-24.
-
-# Undergraduate Presentations
-
-* **Habib D**. Exposure to people who use drugs influences perceptions about drug-related stigma. [Poster](https://drive.google.com/file/d/1LLG5mzLwjDQIfKL6LC1vxS9F9NDN2AGp/view?usp=sharing) presented at: National Institutes of Health Postbac Poster Day; May 20, 2022; Virtual.
-* **Habib D**. Personal encounters and subjective experience: Drug-related stigma perception on social media. Oral presentation at: National Institute on Drug Abuse Research Day; May 18, 2022; Virtual.
-* **Habib D**. Mining digital media to understand the individual and societal impact of substance use disorders. [Poster](https://docs.google.com/presentation/d/110yPB1jmrSIZekYzHW51Y4iySy3_ZQyB/edit?usp=sharing&ouid=111727692220340482351&rtpof=true&sd=true) presented at: National Institutes of Health Summer Research Presentation Week; August 4, 2021; Virtual. 
-* **Habib D**, Elmore N, Gulas S, Ruhde N, Mathew D. The ethics of restrictions in the Middle East’s COVID-19 response. [Oral presentation](https://docs.google.com/presentation/d/1tajQeypkSGQXsfe9CUHwRLTnbM5ct362O-DGL9FUGz0/edit?usp=sharing) at: 39th Annual Mid-Atlantic Undergraduate Social Research Conference; April 22, 2021; Virtual.
-* **Habib D**. Applying a deterministic anonymous incentive method to study high school vaping. [Oral presentation](https://symposium.foragerone.com/dreams-fall-2021/presentations/33862) at: Johns Hopkins University Day of Undergraduate Research in Engineering, Arts, Medicine, and the Sciences; October 18, 2021; Virtual.
-* **Habib D**. Vape use in high school social networks. [Oral presentation](https://docs.google.com/presentation/d/1EjeqKLmYhNKYt0_Q7bcUhV57z489aUBL/edit?usp=sharing&ouid=111727692220340482351&rtpof=true&sd=true) at: Johns Hopkins University Undergraduate Research Symposium; October 27, 2020; Virtual.
