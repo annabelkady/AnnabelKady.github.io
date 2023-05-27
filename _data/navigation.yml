@@ -5,9 +5,6 @@ main:
     
   - title: "Conference Activity"
     url: /talks/   
-
-  - title: "Popular Works"
-    url: /popularworks/    
     
   - title: "CV"
     url: /cv/
