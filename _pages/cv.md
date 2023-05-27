@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 
-* Johns Hopkins University, B.A. in Psychology and Public Health, Aug 2018-Dec 2021
+* Johns Hopkins University, B.A. in Psychology and Public Health, Aug 2018 - Dec 2021
 * University of California, Los Angeles, Ph.D. in Clinical Psychology, Sep 2022 - June 2028 (Expected)
 
 ## Research
