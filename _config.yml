@@ -61,7 +61,8 @@ twitter:
 facebook:
   username               :
   app_id                 :
-  publisher              :
+  
+  lisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -85,7 +86,7 @@ author:
   bio              : "PhD Student<br>akady1@ucla.edu"
   location         : 
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Habib+DRS&cauthor_id=36995266"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/annabel.kady.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=Ad2jDEEAAAAJ&hl=en"
   email            : 
   researchgate     :  "https://www.researchgate.net/profile/Annabel-Kady"
