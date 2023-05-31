@@ -1,7 +1,7 @@
 ---	
 title: "Depressive symptoms and course are associated with early relapse in opioid-dependent individuals treated with extended-release naltrexone but not buprenorphine-naloxone"
 collection: talks	
-permalink: /talks/2022-07-14-mitsinikos2022preliminary
+permalink: /talks/2019JHPotpourri
 date: 2019-07-01
 type: "Poster"
 venue: 'Johns Hopkins Department of Psychiatry and Behavioral Sciences Annual Research Potpourri'
