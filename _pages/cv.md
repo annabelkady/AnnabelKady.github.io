@@ -15,7 +15,7 @@ redirect_from:
 ## Grants, Honors, and Awards
 
 * 2023: Psychology Summer Graduate Student Mentorship (PGSRM) Award, $7,000
-* 2023: [Research Society on Alcohol](https://researchsocietyonalcohol.org/) Student Merit Award, $225 + $200 in conference fees 
+* 2023: [Research Society on Alcohol](https://researchsocietyonalcohol.org/) Student Merit Award, $225 and conference fees 
 * 2022 - 2023: Frank J. McGuigan Award for exceptional scholarly and research achievements, $27,000 
 * 2022 - 2023: UCLA Department of Psychology Fellowship, $3,000 + tuition
 * 2021: Johns Hopkins Design Your Summer Experience Grant for PTSD
