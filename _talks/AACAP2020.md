@@ -1,7 +1,7 @@
 ---	
 title: "Does Therapy Dose and Alliance Affect Treatment Outcomes in Youth Receiving Buprenorphine/Naloxone for Opioid Use Disorders?"
 collection: talks	
-permalink: /talks/AACAP
+permalink: /talks/AACAP202
 date: 2020-10-01
 type: "Poster"
 venue: 'American Academy of Child and Adolescent Psychiatry (AACAP)'s 67th Annual Meeting'
