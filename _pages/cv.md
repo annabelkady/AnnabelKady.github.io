@@ -34,14 +34,14 @@ redirect_from:
 
 * Sep 2022 - Present: **Graduate Student**
     * UCLA Addictions Laboratory
-    * Mentor: Lara Ray, PhD
+    * Mentor: [Lara Ray](https://www.psych.ucla.edu/faculty-page/laray/), PhD
 * Jan 2020 - Jun 2022: **Trauma Team Leader**
   * Addiction and Lifespan Development Lab at Rutgers Center of Alcohol and Substance Use Studies 
 Graduate School of Applied and Professional Psychology, Rutgers University
-  * Mentor: Matthew Lee, PhD
+  * Mentor: [Matthew Lee](https://alcoholstudies.rutgers.edu/people/faculty/matthew-lee/), PhD
 * Jun 2019 - Dec 2021: **Research Assistant**
   * The Neurocognitive and Imaging Characterization of Adolescent Substance Use Disorders (NICAS) Lab & The National Institute on Drug Abuse (NIDA)
-  * Mentor: Christopher Hammond, PhD, MPH
+  * Mentor: [Christopher Hammond](https://www.hopkinsmedicine.org/profiles/details/christopher-hammond), PhD, MPH
 
 ## Leadership and Community Service
 
