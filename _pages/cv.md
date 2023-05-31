@@ -14,11 +14,15 @@ redirect_from:
 
 ## Grants, Honors, and Awards
 
-* 2023: Psychology Summer Graduate Student Mentorship (PGSRM) Award, $7,000
+* 2023: UCLA Psychology Summer Graduate Student Mentorship (PGSRM) Award, $7,000
 * 2023: [Research Society on Alcohol](https://researchsocietyonalcohol.org/) Student Merit Award, $225 and conference fees 
 * 2022 - 2023: Frank J. McGuigan Award for exceptional scholarly and research achievements, $27,000 
 * 2022 - 2023: UCLA Department of Psychology Fellowship, $3,000 + tuition
-* 2021: Johns Hopkins Design Your Summer Experience Grant for PTSD
+* 2021: Johns Hopkins Design Your Summer Experience Grant for PTSD, $1,000
+* 2019:	[National Network of Depression Centers (NNDC)](https://nndc.org/programs-events/task-groups/child-adolescent-mood-disorders/) Task Group 2019 Momentum Grant Award for “Marijuana and Cannabidiol Attitudes, Beliefs, and Behaviors Survey (MABS) Study” (Collaborator; P.I. Christopher Hammond), $10,000 
+* 2019:	[National Network of Depression Centers (NNDC)](https://nndc.org/) Best Poster Award - Clinical Category, received at the 11th Annual NNDC Conference
+* 2021:	[Jewish Changemakers Leadership Fellowship](https://www.jewishchangemakers.org/about), The Jewish Federation of North America, $350
+* 2018 - 2021:	Dean’s List
 
 ## Publications
 
