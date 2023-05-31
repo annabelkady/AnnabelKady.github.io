@@ -47,7 +47,7 @@ Graduate School of Applied and Professional Psychology, Rutgers University
 
 * Sep 2018 - June 2021: **President**, Johns Hopkins Public Policy Consulting Group
 * Sep 2020 – Dec 2022: **Director of Health and Wellness**, Alpha Phi Fraternity at Johns Hopkins University
-* Sep 2019 - Jun 2022: **Hotline Trainer**, The Sexual Assault Resource Unit Hotline (~9 hours/week)
+* Sep 2019 - Jun 2022: **Hotline Responder**, The Sexual Assault Resource Unit Hotline (~9 hours/week)
 
 ## Conference Activity
 
