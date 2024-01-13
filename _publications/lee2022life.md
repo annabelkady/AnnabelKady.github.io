@@ -1,7 +1,7 @@
 ---
 title: "A life span developmental investigation of marriage and problem-drinking reduction"
 collection: publications
-permalink: https://doi.org/10.1017/S0954579422000827
+permalink: /publications/lee2022life
 excerpt: 'This paper investigated age differences in marriage effects on problem-drinking reduction. Results showed marriage effects are the strongest in early young adulthood and decrease thereafter with age, reaching very small (and nonsignificant) magnitudes by the 30s. Results may reflect that role transitions like marriage have more impact on problem drinking in earlier versus later adulthood, thereby highlighting the importance of life span developmental research for understanding problem-drinking desistance.'
 date: 2022-10-26
 venue: 'Development and Psychopathology'
