@@ -70,7 +70,7 @@ In 2022, Annabel joined the Addiction and Lifespan Development Lab at Rutgers Ce
     <div class="column1">
       <h2>Education</h2>
       <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Johns Hopkins University</b><br><i>B.A. Psychology and Public Health - 2021</i></p>
-      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>UCLA</b><br><i>Ph.D. in Clinical Psychology - Expected 2027</i></p>
+      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>University of California, Los Angeles</b><br><i>Ph.D. in Clinical Psychology - Expected 2027</i></p>
     </div>
     <div class="column2">
       <h2>Interests</h2>
@@ -85,4 +85,5 @@ In 2022, Annabel joined the Addiction and Lifespan Development Lab at Rutgers Ce
 </body>
 </html>
 
+<br>
 Continuing her focus on addiction science, in September of 2022, Annabel joined the [UCLA Addictions Lab](https://addictions.psych.ucla.edu/) under Dr. Lara Ray. Currently, Annabel is interested in improving behavioral and pharmacological interventions for AUD. She is particularly interested in studying drinking to cope and examining the connections between AUD and internalizing symptoms. She hopes to refine treatments for individuals with coping motivations and leverage a precision medicine approach to tailor interventions to reward versus relief drinkers. Annabel is also passionate about improving gender-responsive treatments, and she hopes to improve upon existing knowledge about which treatments are better suited to men versus women and gender minorities. Annabel’s master thesis project focuses on examining differences in pharmacologic treatment response among reward versus relief drinking phenotypes. Throughout her career, Annabel is hopeful that her research will improve treatment options for individuals with AUD by identifying tailored treatments for subpopulations with AUD. 
