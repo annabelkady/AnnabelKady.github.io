@@ -77,7 +77,7 @@ In 2022, Annabel joined the Addiction and Lifespan Development Lab at Rutgers Ce
       <ul>
         <li>Improving Treatments for Substance Use Disorders (SUDs)</li>
         <li>Trauma and SUDs</li>
-        <li>Internalizing and Externalizing Pathways to substance use</li>
+        <li>Internalizing and Externalizing Pathways to Substance Use</li>
       </ul>
     </div>
   </div>
