@@ -35,9 +35,39 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+## Recent Clinical Experiences
+
+* Sep 2025 - Present: **Advanced Graduate Student Therapist**
+    * UCLA Psychology Clinic, Acceptance and Commitment Therapy (ACT) Placement
+    * Supervisor: Nikki Rubin, PhD
+    * Provide individual ACT for adults with trauma-related concerns
+
+* Jun 2025 - Present: **Advanced Trauma Therapist**
+    * UCLA Psychology Clinic, Trauma Placement
+    * Supervisor: Greg Stanford, PhD
+    * Provide individual therapy for adults with PTSD using Cognitive Processing Therapy (CPT) and ACT
+
+* Aug 2024 - Jun 2025: **Externship Trainee**
+    * West Los Angeles VA Medical Center, Women’s Health Clinic
+    * Supervisors: Kristen Leishman, PhD & Katie Watry, PhD
+    * Provided individual and group psychotherapy to women Veterans using CBT, ACT, STAIR, DBT, and psychodynamic approaches
+
+* Jul 2023 - Nov 2024: **Graduate Student Therapist**
+    * UCLA Psychology CBT for Alcohol Use Disorder Clinic
+    * Supervisor: Lara Ray, PhD
+    * Provided manualized CBT and motivational interviewing for adults with alcohol and other substance use disorders
+
+* Jan 2022 - Jul 2023: **Neuropsychological Assessor**
+    * UCLA Psychology Clinic
+    * Supervisor: Philip Sayegh, PhD, MPH
+    * Conducted neuropsychological and psychoeducational assessments with adolescent and adult clients
+
 ## Research
 
-* Sep 2022 - Present: **Graduate Student**
+* Dec 2024 - Present: **Graduate Student**
+    * UCLA Resilience, Epidemiology and Community Health Lab
+    * Mentor: [Dana Garfin](https://ph.ucla.edu/about/faculty-staff-directory/dana-rose-garfin), PhD
+* Sep 2022 - Nov 2024: **Graduate Student**
     * UCLA Addictions Laboratory
     * Mentor: [Lara Ray](https://www.psych.ucla.edu/faculty-page/laray/), PhD
 * Jan 2020 - Jun 2022: **Trauma Team Leader**
