@@ -10,10 +10,15 @@ redirect_from:
 ## Education
 
 * Johns Hopkins University, B.A. in Psychology and Public Health, Aug 2018 - Dec 2021
+* University of California, Los Angeles, M.A. in Psychology, Sep 2022 - Dec 2023
 * University of California, Los Angeles, Ph.D. in Clinical Psychology, Sep 2022 - June 2028 (Expected)
 
 ## Grants, Honors, and Awards
 
+* 2026: Honorable Mention for International Society for Traumatic Stress Studies (ISTSS) Best Poster Award 
+* 2025-2026: [UCLA Graduate Research Mentorship (GRM) Award] (https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/graduate-research-mentorship-program/), $30,000 + tuition
+* 2025: [UCLA Graduate Summer Research Mentorship (GSRM) Award] (https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/graduate-summer-research-mentorship-program/), $6,000
+* 2024: [UCLA Graduate Summer Research Mentorship (GSRM) Award] (https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/graduate-summer-research-mentorship-program/), $6,000
 * 2023: UCLA Psychology Summer Graduate Student Mentorship (PGSRM) Award, $7,000
 * 2023: [Research Society on Alcohol](https://researchsocietyonalcohol.org/) Student Merit Award, $225 and conference fees 
 * 2022 - 2023: Frank J. McGuigan Award for exceptional scholarly and research achievements, $27,000 
